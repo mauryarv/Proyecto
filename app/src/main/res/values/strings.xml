@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create account</string>
+    <string name="confirm_password">******</string>
+    <string name="email">dsada@mail.com</string>
+    <string name="password">*******</string>
+    <string name="or">or</string>
+    <string name="you_are_signed_in">iniciaste sesión</string>
+    <string name="sign_out">Adios</string>
+    <string name="volver">Volver</string>
+
+</resources>
